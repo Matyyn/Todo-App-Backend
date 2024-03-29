@@ -8,7 +8,7 @@ Run the command below in your project folder terminal to install the node module
   npm install
 ```
 
-Run the command below in your project folder terminal to start the project:
+Run the command below in your project folder terminal to start the server:
 ```bash
   npm start
 ```
